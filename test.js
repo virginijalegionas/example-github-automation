@@ -34,7 +34,7 @@ describe('files', function () {
         });
 
         it('should import text', function () {
-            assert.isTrue(true);
+            assert.isTrue(false);
         });
     });
 });

@@ -48,7 +48,7 @@ jobs:
           npx testmo automation:run:submit \
             --instance "$TESTMO_URL" \
             --project-id 2 \
-            --name "Mocha test run 2" \
+            --name "Mocha test run 3 - 08:13" \
             --source "unit-tests" \
             --resources resources.json \
             --results results/*.xml \
